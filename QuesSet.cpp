@@ -1,0 +1,27 @@
+// QuesSet.cpp: implementation of the CQuesSet class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "goe agetest.h"
+#include "QuesSet.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CQuesSet::CQuesSet()
+{
+
+}
+
+CQuesSet::~CQuesSet()
+{
+
+}
